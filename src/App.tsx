@@ -55,7 +55,7 @@ const App: React.FC = () => {
           <RevealText delay={2800}>
             <a 
               href="mailto:contact@flexvid.com" 
-              className="text-white/20 text-[10px] md:text-xs tracking-widest uppercase hover:text-white/40 transition-colors duration-500 ease-out"
+              className="text-white/20 text-[10px] md:text-xs tracking-widest hover:text-white/40 transition-colors duration-500 ease-out"
             >
               For urgent inquiries: mj.gamers.15.ai@gmail.com
             </a>
