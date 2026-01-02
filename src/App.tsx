@@ -17,7 +17,7 @@ const App: React.FC = () => {
         {/* A. Brand Name */}
         <RevealText delay={200} className="w-full">
           <h1 className="font-medium tracking-[0.25em] text-sm md:text-xs uppercase text-white/90">
-            Flexvid
+            Flexvid - THE CREATIVE STUDIO
           </h1>
         </RevealText>
 
